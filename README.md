@@ -27,6 +27,8 @@ A capital markets desk tool PoC combining a **Python ETL data engine** with a **
    * Terminal-style UI featuring KPI metric cards.
    * Combo & Area visual charts highlighting volatility stress windows and liquidity dry-ups.
 
+View the live Google Sheets Terminal Dashboard: https://docs.google.com/spreadsheets/d/1-ag4tLfzgUNxmcCOUPvf3SUuVDI5Co8qQEAbV1UApD0/edit?usp=sharing 
+
 ## Dashboard Preview:
 
 <img width="1046" height="570" alt="image" src="https://github.com/user-attachments/assets/39c410de-65d9-4eb4-8d30-f9cb17d77eea" />
