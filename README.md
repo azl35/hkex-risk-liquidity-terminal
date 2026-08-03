@@ -22,7 +22,7 @@ A capital markets product prototype combining a **Python ETL data engine** with 
    * Calculates log returns, rolling annualized volatility, and parametric VaR.
    * Calculates the **Amihud Liquidity Impact Index**:
   $$\text{Amihud Index} = \frac{|\text{Return}|}{\text{Dollar Volume}} \times 10^{11}$$
-   * Executes rule-based logic: Flags **CRITICAL STRESS** when 30-Day Volatility breaches $18.0\%$ **AND** Amihud Price Impact breaches the $85\text{th}$ percentile.
+   * Executes rule-based logic: Flags **Critical Stress** when 30-Day Volatility breaches $18.0\%$ **AND** Amihud Price Impact breaches the $85\text{th}$ percentile.
    * Exports structured CSV output
 
 2. **Front-Office Dashboard (`US_Risk_Execution_Terminal_AlvinaLin.xlsx`):**
