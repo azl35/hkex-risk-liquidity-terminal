@@ -23,11 +23,11 @@ A capital markets desk tool PoC combining a **Python ETL data engine** with a **
      $$\text{Amihud Index} = \frac{|\text{Return}|}{\text{Dollar Volume}}$$
    * Exports structured datasets for spreadsheet ingestion.
 
-2. **Front-Office Dashboard (`Lab49_HKEX_Risk_Terminal_AlvinaLin.xlsx`):**
+2. **Front-Office Dashboard (`HKEX_Risk_Terminal_AlvinaLin.xlsx`):**
    * Terminal-style UI featuring KPI metric cards.
    * Combo & Area visual charts highlighting volatility stress windows and liquidity dry-ups.
 
 ## Dashboard Preview:
 
-<img width="1051" height="578" alt="image" src="https://github.com/user-attachments/assets/09acea44-3d18-4aa4-8aa6-9b2a2b012cc9" />
+<img width="1046" height="570" alt="image" src="https://github.com/user-attachments/assets/39c410de-65d9-4eb4-8d30-f9cb17d77eea" />
 
