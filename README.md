@@ -1,4 +1,4 @@
-# US Capital Markets Risk & Execution Terminal (Product Spec PoC)
+# US Capital Markets Risk & Execution Terminal 
 
 A capital markets product prototype combining a **Python ETL data engine** with a **Google Sheets front-office execution terminal**. Built to demonstrate real-time ingestion of US equity market benchmarks (`SPY`), automated detection of market liquidity shocks, and dynamic execution routing recommendations for Tier-1 trading desks.
 
